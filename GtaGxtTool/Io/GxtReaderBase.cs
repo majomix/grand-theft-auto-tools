@@ -132,7 +132,7 @@ namespace GtaGxtTool.Io
             }
         }
 
-        protected void ReadTkeyBlockHashed(GxtTable gxtTable)
+        protected void ReadTkeyBlockHashed(GxtTable gxtTable, GxtVersion version)
         {
             var sectionId = ReadMetaString(4);
             if (sectionId != "TKEY")
@@ -150,7 +150,7 @@ namespace GtaGxtTool.Io
 
                 keyEntry.Offset = ReadInt32();
                 keyEntry.KeyHash = ReadUInt32();
-                keyEntry.KeyName = _hashProvider.GetSanAndreasEntryName(keyEntry.KeyHash);
+                keyEntry.KeyName = _hashProvider.GetEntryName(keyEntry.KeyHash, version);
 
                 entry.Key = keyEntry;
                 gxtTable.Entries.Add(entry);
