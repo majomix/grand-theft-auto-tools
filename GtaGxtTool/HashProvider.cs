@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Text;
+using GtaGxtTool.Model;
 
 namespace GtaGxtTool
 {
@@ -18,7 +19,20 @@ namespace GtaGxtTool
             InitializeHashList(@"Hash\gta_iv.tdc", _iv, _ivReversed);
         }
 
-        public string GetSanAndreasEntryName(uint hash)
+        public string GetEntryName(uint hash, GxtVersion version)
+        {
+            switch (version)
+            {
+                case GxtVersion.GtaSA:
+                    return GetSanAndreasEntryName(hash);
+                case GxtVersion.Gta4:
+                    return GetIvEntryName(hash);
+                default:
+                    throw new InvalidDataException();
+            }
+        }
+
+        private string GetSanAndreasEntryName(uint hash)
         {
             _sanAndreas.TryGetValue(hash, out var result);
             return result ?? $"0x{hash:X8}";
@@ -34,7 +48,7 @@ namespace GtaGxtTool
             return _sanAndreasReversed[name];
         }
 
-        public string GetIvEntryName(uint hash)
+        private string GetIvEntryName(uint hash)
         {
             _iv.TryGetValue(hash, out var result);
             return result ?? $"0x{hash:X8}";

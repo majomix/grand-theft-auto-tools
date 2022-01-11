@@ -52,7 +52,7 @@ namespace GtaGxtTool.Io
                     }
                 }
 
-                ReadTkeyBlockHashed(section);
+                ReadTkeyBlockHashed(section, GxtVersion.GtaSA);
                 ReadTdatBlock(section);
             }
 

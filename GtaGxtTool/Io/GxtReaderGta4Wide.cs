@@ -50,11 +50,16 @@ namespace GtaGxtTool.Io
                     }
                 }
 
-                ReadTkeyBlockHashed(section);
+                ReadTkeyBlockHashed(section, GxtVersion.Gta4);
                 ReadTdatBlock(section);
             }
 
             return gxtFile;
+        }
+
+        protected override string Transform(string input)
+        {
+            return input;
         }
     }
 }
