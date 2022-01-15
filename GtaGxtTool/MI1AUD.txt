@@ -1,0 +1,209 @@
+GXT Editor 1.2 Section
+32
+MI1AUD
+203
+
+047E5C43  100
+048384D7  ~z~Take, èo tu v Liberty City vlastne robíš, Niko?
+05802AD8  ~z~Take, Michelle, èo tak rada robíš?
+05C83DBD  ~z~Preèo? Máš prive¾a práce alebo èo?
+064B40DB  MI1_MI
+078DA21D  MI1_GA
+08574BA8  100
+08A16EA6  ~z~Toho auta mi je ¾úto, Michelle. Zoeniem ti nové.
+08C77F76  ~z~S tebou sa rozpráva skutoène ako, Michelle.
+093C0041  100010100010100010
+0AF565A2  ~z~Hej, Niko, preèo si za mnou neprišiel skôr? Stalo sa nieèo?
+0D65D54A  ~z~Jeíííš.
+0E8E908C  ~z~Niko, èo robíš?
+0F14CBAE  100
+0F429E1F  MI1_LB
+11EB9C91  ~z~Asi by som si mal viac organizova svoje veci. Lepšie si plánova schôdzky.
+1200E67E  ~z~Kto je tam?
+16C91FDF  ~z~Z?
+173ACE4D  ~z~A èo rád robíš ty?
+18BE0133  ~z~Roman? Spravil pár chıb, zaplietol sa s nesprávnymi ¾uïmi ale
+19F117D5  MI1_A_GE
+1A23EEC6  ~z~Dúfam, e to nevideli policajti.
+1D8BCB94  ~z~No vieš... Mám rada keï sú veci èisté.
+1F9896D7  ~z~Si fakt dobrı, Niko. Skvelo som sa zabila. Zoberieš ma u domov?
+1FABF5B5  MI1_IA
+1FDA3201  ~z~Nepochádzam z Liberty City. Prišla som sem z...
+2050A030  MI1_A_EC
+20C234F3  ~z~Tak u poï!
+248A0B90  ~z~Práve si sa nasahovala?
+2572DC56  ~z~pú.
+28B2F13D  ~z~No tak, pıtal som sa prvı.
+2A5F88BC  MI1_NC
+2B2BE7C8  ~z~Myslel som, e by sme mohli ís do, uh...
+2B809808  MI1_EC
+2D00A287  MI1_DA
+2D5A4193  MI1_A_GA
+2E302866  010100010
+2E792CA9  ~z~Skutoène? Namoèil sa Roman do nejakıch problémov? Je zapojenı do nejakıch zloèinov?
+2F2427D0  MI1_A_FB
+2F698D87  MI1_MF
+3022DAE4  010
+3215F5C0  ~z~Ani neviem - som tu novı.
+3566669C  ~z~Mono má toto mesto skutoène nieèo do seba, len si ešte nie som celkom istı.
+36CECB0C  ~z~Zabudni na to, ešte ti zavolám, ahoj.
+377F3A9E  100
+3913839B  ~z~Poïme - milujem púte!
+391C88FB  ~z~Vieš, lunapark nie je cez toto roèné obdobie otvorenı. Aj tak neviem, èi by spåòal bezpeènostné podmienky.
+39589288  ~z~Mám rada všemoné aktivity. Športy, trénovanie a podobné veci.
+3A42B6EC  MI1_ED
+3A7D32B6  MI1_AB
+3B7664D3  ~z~Snáï.
+3C79E1C6  MI1_A_EA
+3C7D9A9B  ~z~Dobre. Poïme teda na bowling.
+3CA62FDA  ~z~Hej, kde si bol?
+3D733352  100010100010100010
+3E78CCA8  ~z~A èo ty?
+3EB4BE0E  MI1_OB
+3EF6F6A7  ~z~Romana u poznáš. S nikım inım som si zatia¾ nevyrazil.
+423C8BF5  ~z~Budem rada, Niko. Tak sa zatia¾ maj.
+4322E8C0  MI1_A_GG
+4496FB7A  ~z~Oh, zo stredozápadu. Myslím, e tu poznáš viac ¾udí ako ja.
+44FE571B  010100010100010100010100010
+46CEBA11  MI1_ME
+47EE98C3  ~z~Tak a sme tu. Rada by som si zahrala pár kôl, èo povieš?
+4812DED5  MI1_CA
+482CD2D5  ~z~Ïakujem.
+498F61E2  100
+49B87217  MI1_A_EB
+49FDF1AB  MI1_AF
+4B9E1368  ~z~Snáï si nemyslíš, e a tam pošlem metrom. Tak poïme.
+4BCEB1AA  100010
+4C306817  ~z~inak je to skutoène èestnı obchodník.
+4C7FB8D6  ~z~Ale rada by som vedela aj nieèo o tebe. Vidie miesta kde sa zdruješ.
+4E333E06  ~z~Jasné, bowling znie super.
+4E9DB62B  MI1_BE
+4EB9AEE7  ~z~Jasné, super!
+4F024FC1  MI1_NA
+4F92E5E3  MI1_DC
+52A335AA  ~z~Ou, ïakujem...
+5317E8AB  ~z~Hneï sa ti venujem.
+534E2E18  ~z~Hej. To by bolo dobré. Ešte ti zavolám.
+537D5723  MI1_ND
+564D9D3B  100010100
+56B3DC95  MI1_A_HA
+5717207E  ~z~Mono tak viac debilov.
+5814B38F  MI1_FA
+5936AA38  100010100010010100010
+5D440029  ~z~I was really looking forward to that, Niko. I'm sorry if it wasn't your thing. Goodbye.
+5DD47F3F  MI1_EE
+5EA944CE  ~z~Bolo to super. Ve¾mi sa teším a sa zase stretneme.
+5EEE5DB3  ~z~Nooo, mono inokedy.
+5F1E936C  ~z~Kúsok za promenádou je bowlingová heròa. Nezahráme si pár kôl?
+5F27585A  MI1_BD
+5F60B0C3  MI1_A_CA
+601C87D6  MI1_DB
+60ED021B  ~z~Prepáè mi to, Michelle. Obèas sa nechám trochu unies.
+60F58C76  MI1_A_FA
+62A74D5F  MI1_A_OA
+665181BB  MI1_NB
+68F6CDBC  ~z~Myslím, e vieš. Musí predsa existova dôvod preèo si opustil domov a prišiel sem.
+69E041A6  ~z~Nie, myslím, e som sa vydala za prácu.
+6A7B0F65  MI1_AA
+6CF39074  ~z~Èo vlastne robíš? Dúfam, e niè nelegálne.
+70DAB0FF  ~z~Snaím sa správne rozhodnú.
+7420F127  ~z~Tak sme tu, bude to sranda. Dáme si pár kôl.
+74D73DFC  010100010100100010
+74E5363B  100
+7614FC8D  ~z~Ah...
+768A6940  ~z~Jasné, e a zoberiem domov. Poïme.
+795102EF  010
+7A29F022  ~z~Èo tu robia ostatní? Ani neviem.
+7BD7CCDE  ~z~Hej, neïaleko je bowlingová heròa. Mohli by sme si ís zahra.
+7C41FA09  100
+7E943FA3  ~z~Ahoj... Ešte si robím vlasy. Poï ïalej.
+7EB72E06  MI1_NF
+7FD4E27D  MI1_A_IA
+82E448D5  MI1_DF
+8369EE9D  MI1_A_GB
+83E99836  ~z~Vyzeráš dobre.
+8D8300FF  MI1_A_GD
+8F09503D  ~z~You're right there.
+8F45DA72  MI1_MC
+90640EAD  ~z~A èo robíš ty?
+91900765  MI1_A_GC
+93056BAB  ~z~Tak sa maj, Michelle.
+95C5C24C  ~z~Niko, lunapark je zatvorenı. Poèula som, e ho chcú prestava na ve¾kı zábavnı park v štıle Las Venturas.
+982C69FF  MI1_MA
+9972C348  ~z~Oh.
+9A3061A0  MI1_NE
+9B272433  ~z~Vravíš, e v Liberty City ve¾a ¾udí nepoznáš. Nemáš priate¾a, manela alebo neviem èo?
+9C4EDB55  MI1_BA
+A23359F0  MI1_A_DA
+A28406B7  MI1_OA
+A364AC87  ~z~Myslela som si, e v tom budeš lepší, Niko. Ale aspoò bola sranda, e? Zoberieš ma domov?
+A38F8999  ~z~Nie... Preèo?
+A65C565F  100010100010100
+A847674F  ~z~Lunapark je zatvorenı, Niko. Myslím, e ho odkúpila nejaká ve¾ká firma alebo èo.
+ABD80542  MI1_MG
+AE21ECA6  ~z~Tak... kam ma vezmeš?
+AF149057  ~z~Neustále pracuje. Obèas si myslím, e práca je jediná vec v mojom ivote.
+B07BA06C  MI1_EA
+B0C2A731  MI1_DD
+B261D2A8  ~z~Pracujem s Mallorie. Teraz mi povedz èo robíš ty.
+B4F83258  MI1_LA
+B5B62DE6  ~z~Všetky veci máš nové. Na niektorıch je ešte štítok.
+B5E64E54  010010100010100
+B86DABB1  ~z~Škoda, e sme to nedohrali, Niko. Celkom dobre som sa bavila. Môeš ma zavies domov?
+BB920B69  MI1_A_DB
+BCD6D527  MI1_AD
+BD25BA9B  ~z~Nevedela som, e si tak násilnı, Niko. Dal si sa dokopy s kriminálnikmi z Hove Beach?
+BDA48BC7  ~z~keï mi nieèo zaène liez na nervy tak to proste vyhodím.
+BFA1ED28  ~z~Èo vlastne robíš?
+C01B3AFC  MI1_MB
+C1521A6E  MI1_BB
+C4A196B2  MI1_JA
+C52B3A28  MI1_MH
+C8E806C0  ~z~Naozaj? Dúfam, e si sa tu v Liberty City nezaplietol do nejakıch pochybnıch kšeftov. Ak by si spravil nieèo zlé tak mi to povieš, však?
+C987D015  MI1_MD
+CC67591E  ~z~Dokáem sa o seba postara, Michelle, o mòa sa netráp. Ešte raz prepáè.
+CC7D2A6C  ~z~Ale to je len detail. Tak... poïme na vec!
+CCCEE78A  MI1_EB
+CCF55E5A  MI1_DE
+CF30BCB4  MI1_HA
+D0301C31  ~z~Mono tie Romanove priblblé reèi. Mal som pocit, e potrebujem zaèa odznova.
+D0A337F0  MI1_BC
+D2D8B62F  ~z~OCD alebo nieèo podobné?
+D37D5928  ~z~Super, koneène vypadnem z tohto bytu.
+D3AED4FB  MI1_A_FC
+D6C807E1  MI1_AE
+D6F9A2E3  ~z~Ešte sa navzájom ve¾mi nepoznáme, Michelle. Ešte ti zavolám.
+D6FD9BE3  ~z~Asi ešte nie si zvyknutı rozpráva sa s amerièankami.
+D81936C2  MI1_A_BA
+D8E82A8B  ~z~You will, give it some time.
+DCC4194C  MI1_A_GF
+DF0BF4A7  ~z~Myslela som, e ma tu necháš.
+E0019136  ~z~Dobrá hra, Niko. Zabavili sme sa. Zoberieš ma domov?
+E15274D2  ~z~Takı pocit má ve¾a ¾udí. Obèas je aké zabráni aby ti práca nezobrala celı ivot.
+E3F98272  ~z~Budeš to musie zobra do obchodu.
+E442B66D  ~z~No tak, pıtal som sa prvı...
+E6C2BA3E  010100010
+EACD6618  ~z~To vidím... ale, ehm... všetko je tu nové.
+EB63CF82  ~z~Èo zvykneš robieva?
+F03E3206  MI1_OC
+F186766D  MI1_A_DC
+F24675FE  ~z~Len my to tu voláme, ehm, „lunapark“.
+F25356F4  ~z~A ja som si myslel, e to ty mi robíš láskavos, keï si so mnou išla. Si predsa miestna.
+F3562339  MI1_AC
+F3C0E03C  ~z~Rada by som a spoznala, Niko. Vidie miesta kde sa zdriavaš. ¼udí, s ktorımi sa stretávaš.
+F4951E1C  100
+F54D3A52  ~z~Roman sa dostal do problémov. Musím mu pomôc.
+F64F03DB  MI1_A_PA
+F6792771  ~z~Chudák auto.
+F820CDA5  ~z~Akoe by si mi ho ukradol? Dal si sa dokopy s kriminálnikmi z Hove Beach, Niko?
+F91902AF  ~z~Hej. Som tak trochu posadnutá èistotou...
+F9FBCFDC  100
+FAB26A54  ~z~Prepáè, musím zruši naše rande, Michelle. Prišlo mi do toho nieèo ve¾mi dôleité.
+FB8EB99A  ~z~Ahoj, tu Niko.
+FB949E2C  010100010
+FE28EFC1  ~z~Nemôem èaka do nekoneèna, Niko. Pohni.
+FE71F8B4  ~z~To ti na nièom inom v celom Liberty City nezáleí, len na Romanovi?
+FF2340C3  ~z~U beím...
+FF54F0F7  ~z~Ïakujem, e si ma pozval von. U dávno som nebola na rande. Som tu tak trochu osamelá.
+FFA54EA6  100
+
