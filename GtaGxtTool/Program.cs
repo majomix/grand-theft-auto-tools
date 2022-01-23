@@ -28,18 +28,10 @@ namespace GtaGxtTool
 
             options.Parse(args);
 
-            var processFiles = new MergeGTASKFiles();
-            processFiles.LoadTxtFile("MAIN.txt");
-            processFiles.LoadTxtFile("MI1AUD.txt");
-            processFiles.WriteTxtFile("test.txt");
-
-            return;
-
             var editor = new GxtEditor();
 
             //gxtPath = @"D:\Preklady\Grand Theft Auto - San Andreas\slovak.gxt";
             //txtPath = @"D:\Preklady\Grand Theft Auto - San Andreas\backup\text\naetoo_slovak.txt";
-
 
             switch (action)
             {

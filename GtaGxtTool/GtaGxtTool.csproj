@@ -46,7 +46,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Io\MergeGTASKFiles.cs" />
     <Compile Include="HashProvider.cs" />
     <Compile Include="GxtEditor.cs" />
     <Compile Include="Io\GxtReaderBase.cs" />
@@ -59,9 +58,6 @@
     <Compile Include="Io\GxtWriterSanAndreas.cs" />
     <Compile Include="Io\GxtWriterViceCity.cs" />
     <Compile Include="Io\GxtWriterGta3.cs" />
-    <Compile Include="Model\TxtFile.cs" />
-    <Compile Include="Model\TxtTable.cs" />
-    <Compile Include="Model\TxtEntry.cs" />
     <Compile Include="Model\GxtEntry.cs" />
     <Compile Include="Model\GxtFile.cs" />
     <Compile Include="Model\GxtKeyEntry.cs" />
