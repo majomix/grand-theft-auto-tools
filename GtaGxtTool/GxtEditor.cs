@@ -46,7 +46,7 @@ namespace GtaGxtTool
                 }
 
                 var entries = section.Entries;
-                if (gxtFile.Version == GxtVersion.GtaSA || gxtFile.Version == GxtVersion.Gta4)
+                if (gxtFile.Version == GxtVersion.GtaSA || gxtFile.Version == GxtVersion.GtaSA)
                 {
                     entries = entries.OrderBy(e => e.Key.KeyName).ToList();
                 }
